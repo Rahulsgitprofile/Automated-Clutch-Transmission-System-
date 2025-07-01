@@ -24,7 +24,8 @@ Manually shifting the clutch in stop‑and‑go traffic can cause knee strain an
 ![Simulation](https://github.com/user-attachments/assets/cdefdd9b-f45f-4b5a-82bb-668d12114c27)
 
 ---
-
+## 🎥 Demo Video
+[▶️ WATCH DEMO VIDEO ON GOOGLE DRIVE](https://drive.google.com/file/d/11DWoFIbqdg3ETchcVmPsiCMLBBqPQTkV/view?usp=sharing)
 
 
 ## 🎯 Objectives
@@ -77,6 +78,6 @@ Manually shifting the clutch in stop‑and‑go traffic can cause knee strain an
 - **Smooth virtual demo** showing gear‑down on cornering via pedal actuation.
 
 ---
+## 🛠️ Project Report
+> For full details, see the [project report](https://drive.google.com/file/d/1_sQfNAWTFPTmPssIpWSGpvrDfT1KJBhZ/view?usp=sharing).  
 
-> For full details, see the [project report](./report/Automated_Clutch_Transmission_System.pdf).  
-> To run the Simulink model, open `/code/simulink/automatic_clutch.slx` in MATLAB R2020a or later.  
