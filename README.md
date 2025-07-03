@@ -12,7 +12,15 @@ Manually shifting the clutch in stop‑and‑go traffic can cause knee strain an
 
 ---
 
+
 ## 🖼️ Pictures
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cdefdd9b-f45f-4b5a-82bb-668d12114c27" alt="Gameplay Screenshot 1" width="470" />
+  <img src="https://github.com/user-attachments/assets/89727d67-8c2d-4ea1-9083-49b8d4f96a26" alt="Robot Movement" width="440" />
+</p>
+
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/64fa0360-8cff-4b63-8c70-0447e37fcc4e" width="550" alt="CAD in Car Interior"/>
@@ -21,7 +29,7 @@ Manually shifting the clutch in stop‑and‑go traffic can cause knee strain an
   <img src="https://github.com/user-attachments/assets/bb29c444-457f-49a0-99e2-29fa2dd4b686" width="370" alt="3D Driving Scene"/>
 </p>
 
-![Simulation](https://github.com/user-attachments/assets/cdefdd9b-f45f-4b5a-82bb-668d12114c27)
+
 
 ---
 ## 🎥 Demo Video
